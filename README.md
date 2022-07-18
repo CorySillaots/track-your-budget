@@ -18,7 +18,7 @@ Open your coding software, select "open file" and locate the Daily-Task-Planner 
 
 ## Collaborators and References
 
-- Third Party API's Project Code
+- PWA Project Code
     University Of Toronto SCS Coding Boot Camp
 
 - W3 Schools
